@@ -62,7 +62,7 @@ export const _faqs: Array<[
 			[
 				`refunds`,
 				`What is your refund policy?`,
-				`If our ordering physician determines that you are not a candidate for the test at this time, we will reimburse you for the cost of the test. All other returns for the test are handled by Amazon. We cannot accept returns for any kits that have been used.`,
+				`If our ordering physician determines that you are not a candidate for the test at this time, we will reimburse you for the cost of the test. We cannot accept returns for any kits that have been used.`,
 			],
 			[
 				`insurance`,
@@ -82,7 +82,7 @@ export const _faqs: Array<[
 			[
 				`usa-states`,
 				`Is Geneticure available in all US states?`,
-				`At this time our test is not available to residents of New York and Maryland. Please check back periodically as we hope to be able to offer the test in these states soon.`,
+				`At this time our test is not available to residents of New York. Please check back periodically as we hope to be able to offer the test in this state soon.`,
 			],
 			[
 				`international`,
